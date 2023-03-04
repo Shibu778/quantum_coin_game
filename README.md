@@ -4,6 +4,23 @@ Notebook for webapp of quantum coin game
 Python version : 3.9.16
 
 
+
+Install following Libraries:
+Pip install following
+
+voila
+
+qiskit
+
+ipykernel
+
+ipywidgets
+
+matplotlib
+
+conda install -c conda-forge nb_conda_kernels
+
+
 All the libraries are in environment.yml
 
 
